@@ -1,0 +1,8 @@
+{
+  "name": "liquidjstopdf",
+  "version": "0.0.1",
+  "description": "This is a project to transform liquid js templates to pdfs",
+  "main": "index.js",
+  "author": "Francisco Castañeda",
+  "license": "ISC"
+}
